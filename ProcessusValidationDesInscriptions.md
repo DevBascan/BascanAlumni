@@ -1,6 +1,6 @@
 ![https://lyc-bascan/alumnitracer](https://notretribunet.fr/alumnitracer/images/bandeau_BascanAlumni.png "Logo Bascan alumni")
 
-# Le processus de validation d'une inscription sur la plateforme Bascan Alumni
+# LE PROCESSUS DE VALIDATION D'UNE INSCRIPTION SUR LA PLATEFORME BASCAN ALUMNI
 
 La validation des inscriptions des anciens élèves sur notre plateformes suit un processus afin de garantir que seules les personnes ayant réellement fréquenté l'établissement puissent y accéder et en profiter.
 
@@ -42,7 +42,7 @@ Après validation, l'ancien élève peut utiliser les services proposés par la 
 
 N'hésitez pas à nous contacter si vous avez des questions spécifiques sur ce processus.
 
-# Workflow de validation - Bascan Alumni
+# WORKFLOW DE VALIDATION - BASCAN ALUMNI
 
 **Version simple mais opérationnelle**
 
