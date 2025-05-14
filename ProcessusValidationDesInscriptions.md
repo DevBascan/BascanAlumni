@@ -1,5 +1,3 @@
-##Inscription
-
 ![https://lyc-bascan/alumnitracer](https://notretribunet.fr/alumnitracer/images/bandeau_BascanAlumni.png "Logo Bascan alumni")
 
 #Le processus de validation d'une inscription sur la plateforme Bascan Alumni
