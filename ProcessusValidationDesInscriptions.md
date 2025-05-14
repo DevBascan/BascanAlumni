@@ -1,12 +1,12 @@
 ![https://lyc-bascan/alumnitracer](https://notretribunet.fr/alumnitracer/images/bandeau_BascanAlumni.png "Logo Bascan alumni")
 
-#Le processus de validation d'une inscription sur la plateforme Bascan Alumni
+# Le processus de validation d'une inscription sur la plateforme Bascan Alumni
 
 La validation des inscriptions des anciens élèves sur notre plateformes suit un processus afin de garantir que seules les personnes ayant réellement fréquenté l'établissement puissent y accéder et en profiter.
 
 **Voici les étapes de validation d'une inscription.**
 
-##1. Création d'un compte sur la plateforme
+## 1. Création d'un compte sur la plateforme
 
 L'ancienne élève ou l'ancien élève doit d'abord s'inscrire en créant un compte sur la plateforme des anciens élèves.
 
@@ -14,7 +14,7 @@ Elle ou il doit fournir leurs informations personnelles, telles que leur nom, pr
 
 |→ [Créer un compte](https://lyc-bascan.fr/alumnitracer/index.php?q=registersecure)
 
-##2. Vérification de l'identité
+## 2. Vérification de l'identité
 
 Une fois le compte créé, une vérification peut être demandée pour confirmer que la personne est bien un ancien élève. Cette vérification peut se faire de plusieurs manières :
 - par la date de sortie de l’établissement : la plateforme peut demander l’année de sortie pour croiser ces informations avec les archives du lycée ;
@@ -22,7 +22,7 @@ Une fois le compte créé, une vérification peut être demandée pour confirmer
 
 Documents justificatifs : dans certains cas, une pièce justificative, comme un relevé de notes, un bulletin trimestriel ou une carte de lycéen, peut être demandée pour prouver l'inscription au lycée.
 
-##3. Approbation par les modérateurs des anciens élèves
+## 3. Approbation par les modérateurs des anciens élèves
 
 Après la soumission des informations, les modérateurs des anciens élèves ou les administrateurs de la plateforme peuvent vérifier et approuver l'inscription.
 
@@ -30,7 +30,7 @@ Cette étape consiste souvent à confirmer que la personne est bien éligible à
 
 L'approbation peut prendre quelques jours en fonction des processus internes de l'établissement.
 
-##4. Confirmation de l'inscription
+## 4. Confirmation de l'inscription
 
 Une fois validée, la personne reçoit une confirmation par courriel et peut désormais accéder à toutes les ressources de la plateforme des anciens élèves, telles que l'annuaire, et les offres de stages.
 
@@ -42,7 +42,7 @@ Après validation, l'ancien élève peut utiliser les services proposés par la 
 
 N'hésitez pas à nous contacter si vous avez des questions spécifiques sur ce processus.
 
-#Workflow de validation - Bascan Alumni
+# Workflow de validation - Bascan Alumni
 
 **Version simple mais opérationnelle**
 
