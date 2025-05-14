@@ -42,7 +42,9 @@ Après validation, l'ancien élève peut utiliser les services proposés par la 
 
 N'hésitez pas à nous contacter si vous avez des questions spécifiques sur ce processus.
 
-# WORKFLOW DE VALIDATION - BASCAN ALUMNI
+<br>
+
+# LE WORKFLOW DE VALIDATION - BASCAN ALUMNI
 
 **Version simple mais opérationnelle**
 
