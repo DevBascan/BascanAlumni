@@ -1,6 +1,4 @@
-# Conditions Générales d'Utilisation (CGU)
-
-### Plateforme [**<u>Bascan Alumni</u>**](https://lyc-bascan.fr/alumnitracer/)
+# Conditions Générales d'Utilisation (CGU) de la plateforme [**<u>Bascan Alumni</u>**](https://lyc-bascan.fr/alumnitracer/)
 
 **Dernière mise à jour : 25/08/2025**
 
