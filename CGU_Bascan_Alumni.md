@@ -140,5 +140,3 @@ Pour toute question concernant les CGU ou le fonctionnement de la plateforme :<b
 Avenue du Maréchal Leclerc<br>
 78120 Rambouillet<br>
 📞 01 34 82 64 00
-
----
